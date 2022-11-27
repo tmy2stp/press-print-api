@@ -1,0 +1,11 @@
+{
+  "name": "press-print-api",
+  "version": "1.0.0",
+  "description": "API serving printer hosts for Press",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1"
+  }
+}
